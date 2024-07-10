@@ -5,10 +5,10 @@ def return_evens(num_list):
     return number_even
     pass
 
-# def make_exclamation(sentence_list):
-#     exclaimed_list = [item + "!" for item in sentence_list]
-#     return exclaimed_list
-#     pass
+def make_exclamation(sentence_list):
+    exclaimed_list = [item + "!" for item in sentence_list]
+    return exclaimed_list
+    pass
    
 
 
